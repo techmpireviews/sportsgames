@@ -12,8 +12,8 @@
 	<div class="title">
 		<b id="toplevels"><center>Levels</center></b>
 		<span id="levels">
-			<a href="/teamsframe.php"><b id="standard">Standard</b></a>
-			<a style="margin-left: 40px;" href="/teamsframe.php"><b id="pro">Pro</b></a>
+			<a href="/frames/teamsframe.php"><b id="standard">Standard</b></a>
+			<a style="margin-left: 40px;" href="/frames/teamsframe.php"><b id="pro">Pro</b></a>
 		</span>
 	</div>
 
